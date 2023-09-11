@@ -10,7 +10,7 @@ const Footer = () => {
         </span>
         <span className="text-sm text-gray-400 sm:text-center">
           email{" "}
-          cavasini.dev@gmail.com
+          exemplo@gmail.com
         </span>
       </div>
     </footer>
